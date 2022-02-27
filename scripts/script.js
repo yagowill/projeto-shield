@@ -14,9 +14,9 @@ function logIn() {
     user = document.getElementById('user').value
     let senha = document.getElementById('pass').value
     if (user == 'iron tony' && senha == 'iloveu3000') {
-    location.href = "../iron.html"
+    location.href = "https://yagowill.github.io/projeto-shield/iron.html"
     } else if (user == 'cap steve' && senha == 'peggy' ) {
-    location.href = "../cap.html"
+    location.href = "https://yagowill.github.io/projeto-shield/cap.html"
     }else {
         alert('Usuário ou senha incorreto!')
     }
