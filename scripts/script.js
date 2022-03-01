@@ -14,9 +14,9 @@ function logIn() {
     user = document.getElementById('user').value
     let senha = document.getElementById('pass').value
     if (user == 'iron tony' && senha == 'iloveu3000') {
-        location.src = "./iron.html"
+        location.href = "iron.html"
     } else if (user == 'cap steve' && senha == 'peggy') {
-        location.src = "./cap.html"
+        location.href = "cap.html"
     } else {
         alert('Usuário ou senha incorreto!')
     }
