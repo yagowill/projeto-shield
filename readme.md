@@ -10,6 +10,11 @@ capitão américa | cap steve | peggy
 
 ## Printscreens
 
+### Mobile
+
+![Screenshot](imagens/Screenshot_mob.png) ![Screenshot](imagens/Screenshot_mob1.png)
+### Desktop
+
 ![Screenshot](imagens/Screenshot.png)
 
 ![Screenshot](imagens/Screenshot_iron1.png)
