@@ -11,6 +11,7 @@ capitão américa | cap steve | peggy
 ## Printscreens
 
 ![Screenshot](imagens/Screenshot.png)
-![Screenshot](imagens/Screenshot_iron1.png)
-![Screenshot](imagens/Screenshot_cap1.png)
 
+![Screenshot](imagens/Screenshot_iron1.png)
+
+![Screenshot](imagens/Screenshot_cap1.png)
